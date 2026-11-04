@@ -1,4 +1,3 @@
-<p align="center">
-  <img src="https://tbg-media.de/resources/TBG-Logo.png" alt="Logo" width="80"><br>
-  <code>#MakeYourDreamVisible</code>
-</p>
+<div align="center">
+  
+![TBG Media](https://glyphbadges.dev/cover?title=TBG%20Media&description=%23MakeYourDreamVisible)
