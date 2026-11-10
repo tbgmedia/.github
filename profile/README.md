@@ -11,36 +11,46 @@
 
 ## Making dreams visible
 
-TBG Media is a Germany-based creative team turning ambitious ideas into memorable digital experiences.
+TBG Media is a Germany-based creative team transforming ambitious ideas into memorable digital experiences.
 
 <div align="center">
 
 [![Creative](https://glyphbadges.dev/badge/Creative-Ideas-8B5CF6.svg?text=Creative%20ideas&bg=8B5CF6&labelBg=111827&logo=heart&style=rounded)](https://tbg-media.de)
 [![Digital](https://glyphbadges.dev/badge/Digital-Experiences-2563EB.svg?text=Digital%20experiences&bg=2563EB&labelBg=111827&logo=website&style=rounded)](https://tbg-media.de)
-[![Technology](https://glyphbadges.dev/badge=Technology-Innovation-0EA5E9.svg?text=Innovation&bg=0EA5E9&labelBg=111827&logo=github&style=rounded)](https://github.com/tbgmedia)
-[![Impact](https://glyphbadges.dev/badge/Impact-That-lasts-16A34A.svg?text=That%20lasts&bg=16A34A&labelBg=111827&logo=star&style=rounded)](https://tbg-media.de)
+[![Technology](https://glyphbadges.dev/badge/Technology-Innovation-0EA5E9.svg?text=Innovation&bg=0EA5E9&labelBg=111827&logo=github&style=rounded)](https://github.com/tbgmedia)
+[![Quality](https://glyphbadges.dev/badge/Quality-That-lasts-16A34A.svg?text=That%20lasts&bg=16A34A&labelBg=111827&logo=star&style=rounded)](https://tbg-media.de)
 
 </div>
 
 > **#MakeYourDreamVisible**
 
-## What drives us
+## Our approach
 
-[![Ideas](https://glyphbadges.dev/badge/Ideas-Clear-8B5CF6.svg?text=Clear%20ideas&bg=8B5CF6&labelBg=111827&logo=heart&style=rounded)](https://tbg-media.de)
+We combine creativity, technology, and attention to detail to turn ideas into work that feels clear, useful, and memorable.
 
-We turn complex thoughts into clear concepts people can understand.
+### Clear direction
 
-[![Visuals](https://glyphbadges.dev/badge/Visuals-With-personality-F59E0B.svg?text=With%20personality&bg=F59E0B&labelBg=111827&logo=heart&style=rounded)](https://tbg-media.de)
+[![Ideas](https://glyphbadges.dev/badge/Ideas-Clear-direction-8B5CF6.svg?text=Clear%20direction&bg=8B5CF6&labelBg=111827&logo=heart&style=rounded)](https://tbg-media.de)
 
-We create visual experiences with character, purpose, and attention to detail.
+Every strong project starts with a clear idea. We help shape ambitious thoughts into concepts people can understand.
 
-[![Technology](https://glyphbadges.dev/badge/Technology-That-works-0EA5E9.svg?text=That%20works&bg=0EA5E9&labelBg=111827&logo=github&style=rounded)](https://github.com/tbgmedia)
+### Memorable design
 
-We use technology as a tool to bring good ideas to life.
+[![Design](https://glyphbadges.dev/badge/Design-With-personality-F59E0B.svg?text=With%20personality&bg=F59E0B&labelBg=111827&logo=heart&style=rounded)](https://tbg-media.de)
 
-[![Quality](https://glyphbadges.dev/badge/Quality-By-design-16A34A.svg?text=By%20design&bg=16A34A&labelBg=111827&logo=check&style=rounded)](https://tbg-media.de)
+We create visual experiences with character, purpose, and details worth remembering.
 
-We care about the details that turn good work into something people remember.
+### Smart technology
+
+[![Technology](https://glyphbadges.dev/badge/Technology-Built-to-work-0EA5E9.svg?text=Built%20to%20work&bg=0EA5E9&labelBg=111827&logo=github&style=rounded)](https://github.com/tbgmedia)
+
+Technology should support the idea—not hide it. We choose practical tools that bring concepts to life.
+
+### Lasting quality
+
+[![Quality](https://glyphbadges.dev/badge/Quality-Made-to-last-16A34A.svg?text=Made%20to%20last&bg=16A34A&labelBg=111827&logo=check&style=rounded)](https://tbg-media.de)
+
+We care about the details that transform good work into something people trust and remember.
 
 ## Let’s create something visible
 
@@ -49,7 +59,7 @@ Have an idea that deserves to be seen?
 <div align="center">
 
 [![Start a conversation](https://glyphbadges.dev/badge/Email-Start-a-conversation-EA4335.svg?text=Start%20a%20conversation&bg=EA4335&labelBg=111827&logo=mail&style=rounded)](mailto:tobias@tbg-media.de)
-[![Visit TBG Media](https://glyphbadges.dev/badge/Website-Explore-TBG%20Media-2563EB.svg?text=Explore%20TBG%20Media&bg=2563EB&labelBg=111827&logo=website&style=rounded)](https://tbg-media.de)
+[![Explore TBG Media](https://glyphbadges.dev/badge/Website-Explore-TBG%20Media-2563EB.svg?text=Explore%20TBG%20Media&bg=2563EB&labelBg=111827&logo=website&style=rounded)](https://tbg-media.de)
 
 **Based in Germany · Building for the web · #MakeYourDreamVisible**
 
@@ -61,7 +71,7 @@ Have an idea that deserves to be seen?
 
 [![Website](https://glyphbadges.dev/badge/Website-tbg--media.de-2563EB.svg?text=tbg--media.de&bg=2563EB&labelBg=111827&logo=website&style=rounded)](https://tbg-media.de)
 [![GitHub](https://glyphbadges.dev/badge/GitHub-tbgmedia-181717.svg?text=tbgmedia&bg=181717&labelBg=111827&logo=github&style=rounded)](https://github.com/tbgmedia)
-[![Email](https://glyphbadges.dev/badge/Email-tobias%40tbg--media.de-EA4335.svg?text=Contact%20us&bg=EA4335&labelBg=111827&logo=mail&style=rounded)](mailto:tobias@tbg-media.de)
+[![Email](https://glyphbadges.dev/badge/Email-Contact-us-EA4335.svg?text=Contact%20us&bg=EA4335&labelBg=111827&logo=mail&style=rounded)](mailto:tobias@tbg-media.de)
 
 </div>
 
