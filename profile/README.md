@@ -69,7 +69,7 @@ Have an idea that deserves to be seen?
 
 <div align="center">
 
-[![Website](https://glyphbadges.dev/badge/Website-tbg--media.de-2563EB.svg?text=tbg--media.de&bg=2563EB&labelBg=111827&logo=website&style=rounded)](https://tbg-media.de)
+[![Website](https://glyphbadges.dev/badge/Website-tbg-media.de-2563EB.svg?text=tbg-media.de&bg=2563EB&labelBg=111827&logo=website&style=rounded)](https://tbg-media.de)
 [![GitHub](https://glyphbadges.dev/badge/GitHub-tbgmedia-181717.svg?text=tbgmedia&bg=181717&labelBg=111827&logo=github&style=rounded)](https://github.com/tbgmedia)
 [![Email](https://glyphbadges.dev/badge/Email-Contact-us-EA4335.svg?text=Contact%20us&bg=EA4335&labelBg=111827&logo=mail&style=rounded)](mailto:tobias@tbg-media.de)
 
