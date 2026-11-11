@@ -4,7 +4,7 @@
 
 [![Website](https://glyphbadges.dev/badge/Website-Visit-2563EB.svg?text=Visit%20our%20website&bg=2563EB&labelBg=111827&logo=website&style=rounded)](https://tbg-media.de)
 [![GitHub](https://glyphbadges.dev/badge/GitHub-Follow-us-181717.svg?text=Follow%20us&bg=181717&labelBg=111827&logo=github&style=rounded)](https://github.com/tbgmedia)
-[![Email](https://glyphbadges.dev/badge/Email-Get-in-touch-EA4335.svg?text=Get%20in%20touch&bg=EA4335&labelBg=111827&logo=mail&style=rounded)](mailto:tobias@tbg-media.de)
+[![Email](https://glyphbadges.dev/badge/Email-Get-in-touch-EA4335.svg?text=Get%20in%20touch&bg=EA4335&labelBg=111827&logo=mail&style=rounded)](mailto:info@tbg-media.de)
 [![Location](https://glyphbadges.dev/badge/Location-Germany-111827.svg?text=Germany&bg=111827&labelBg=374151&logo=website&style=rounded)](https://tbg-media.de)
 
 </div>
